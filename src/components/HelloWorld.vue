@@ -134,9 +134,8 @@ li {
   transform: translateX(0px)
 }
 .heart {
-  fill: red;
-  position: relative;
-  top: -20px;
+  fill: blue;
+ 
   width: 50px;
   animation: pulse 1s ease infinite;
 }
