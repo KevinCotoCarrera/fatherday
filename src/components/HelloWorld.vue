@@ -42,7 +42,7 @@
       <h2 class="h2 font serif text-xl mt-12">Que sepas que siempre estaremos todos para ti, <span class="text-blue-400">te queremos Papá</span>.</h2>
       <div class="flex justify-center mt-10 text-2xl">We
 
-<svg class="heart mr-3 ml-3" viewBox="0 0 32 29.6">
+<svg class="heart mr-4 ml-4" viewBox="0 0 32 29.6">
   <path d="M23.6,0c-3.4,0-6.3,2.7-7.6,5.6C14.7,2.7,11.8,0,8.4,0C3.8,0,0,3.8,0,8.4c0,9.4,9.5,11.9,16,21.2
   c6.1-9.3,16-12.1,16-21.2C32,3.8,28.2,0,23.6,0z"/>
 </svg> 
@@ -136,7 +136,7 @@ li {
 .heart {
   fill: red;
   position: relative;
-  top: -40px;
+  top: -50px;
   width: 50px;
   animation: pulse 1s ease infinite;
 }
