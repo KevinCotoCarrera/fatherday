@@ -136,7 +136,7 @@ li {
 .heart {
   fill: red;
   position: relative;
-  top: 0px;
+  top: 5px;
   width: 50px;
   animation: pulse 1s ease infinite;
 }
