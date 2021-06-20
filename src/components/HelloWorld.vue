@@ -93,7 +93,7 @@ li {
 }
 
 .top-appear-active-class{
-	transition: all 1s;
+	transition: all 1.5s;
   transform: translateY(-20px);
   opacity: 0;
 }
@@ -124,8 +124,8 @@ li {
 }
 
 .left-appear-active-class{
-	transition: all 1s;
-  transform: translateX(-20px);
+	transition: all 1.5s;
+  transform: translateX(-50px);
   opacity: 0;
 }
 
@@ -136,7 +136,7 @@ li {
 .heart {
   fill: red;
   position: relative;
-  top: 5px;
+  top: -20px;
   width: 50px;
   animation: pulse 1s ease infinite;
 }
